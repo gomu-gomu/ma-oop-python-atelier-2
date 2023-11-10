@@ -1,4 +1,4 @@
-# Atelier 1
+# Atelier 2
 
 Exercices are inside of the [tp.pdf](./assets/tp.pdf) file.
 
@@ -18,5 +18,5 @@ python src/__init__.py
 
 Individual files can be run by name, for example:
 ```sh
-python src/tp1.py
+python src/fichier_ADN.py
 ```
