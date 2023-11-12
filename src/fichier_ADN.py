@@ -1,3 +1,5 @@
+PATH = 'ADN.txt'
+
 def calcule_taille_ADN(chaine):
 	return len(chaine)
 
@@ -9,12 +11,12 @@ def nbr_C(chaine):
 
 def ADN_2_ARN(ADN: str):
 	ARN = ADN.replace('T', 'U')
-	with open('./ADN.txt', 'a') as file:
+	with open(PATH, 'a') as file:
 		file.write('\n' + ARN)
 	return ARN
 
 def main():
-	with open('./ADN.txt', 'r') as file:
+	with open(PATH, 'r') as file:
 		# 1 - Ecrire un script fichie_ADN.py, qui ouvre et lit le contenu du fichier ADN.txt.
 		ADN = file.read()
 		print('1 - ADN :', ADN)
