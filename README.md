@@ -13,12 +13,9 @@ Solutions can be run via:
 ```sh
 python3 src/__init__.py
 ```
-or
-```sh
-python src/__init__.py
-```
 
 Individual files can be run by name, for example:
+
 ```sh
 python src/fichier_ADN.py
 ```
