@@ -1,6 +1,6 @@
 # Atelier 2
 
-[![Python application](https://github.com/gomu-gomu/ma-oop-python-atelier-2/actions/workflows/python-app.yml/badge.svg)](https://github.com/gomu-gomu/ma-oop-python-atelier-2/actions/workflows/python-app.yml)
+[![Python application](https://github.com/gomu-gomu/ma-oop-python-atelier-2/actions/workflows/action.yml/badge.svg)](https://github.com/gomu-gomu/ma-oop-python-atelier-2/actions/workflows/action.yml)
 
 Exercices are inside of the [tp.pdf](./assets/tp.pdf) file.
 
